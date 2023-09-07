@@ -1,4 +1,4 @@
-![logo](https://github.com/ABDULRAFFAY12/ABDULRAFFAY12/blob/main/onnit.jpg)
+![logo](https://github.com/ABDULRAFFAY12/ABDULRAFFAY12/blob/main/intro.jpg)
 <h3 align="center">Exploring the World of Web Development: A MERN and MEAN Stack Beginner's Journey</h3>
 <img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraffay12&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraffay12" /> </p>
