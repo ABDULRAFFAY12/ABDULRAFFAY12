@@ -1,6 +1,6 @@
 ![logo](https://github.com/ABDULRAFFAY12/ABDULRAFFAY12/blob/main/intro.jpg)
 <h3 align="center">Exploring the World of Web Development: A MERN and MEAN Stack Beginner's Journey</h3>
-<img align="right" alt="coding" width="700" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraffay12&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraffay12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khanraffay13258" target="blank"><img src="https://img.shields.io/twitter/follow/khanraffay13258?logo=twitter&style=for-the-badge" alt="khanraffay13258" /></a> </p>
