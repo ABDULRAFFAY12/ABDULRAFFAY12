@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraffay12&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraffay12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulraffay12" alt="abdulraffay12" /></a> </p>
-
 - 🌱 I’m currently learning **Angular,Node,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULRAFFAY12?tab=repositories](https://github.com/ABDULRAFFAY12?tab=repositories)
